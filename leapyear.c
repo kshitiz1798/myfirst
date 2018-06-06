@@ -1,3 +1,6 @@
+/*to find the entered year is leap year or not*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
